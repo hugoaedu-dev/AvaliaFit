@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Área do Aluno — AvaliaFit</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><h1>Área do Aluno — AvaliaFit</h1></header>
+
+<main>
+  <h2>Bem-vindo, <span id="nomeAluno"></span></h2>
+  <p>Histórico de avaliações:</p>
+  <div id="listaAvaliacoes"></div>
+  <button id="logoutBtn">Sair</button>
+</main>
+
+<footer></footer>
+</body>
+</html>
